@@ -1,0 +1,13 @@
+*{    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    ;}
+
+#FotoPerfil{border-radius: 50%;
+            display: flex;
+            align-items: center;
+            }
+hr {margin-right: 50%;}
+
+footer {background-color: grey;
+        opacity: 50%;
+        color: honeydew;
+        margin-right: 50%;}
