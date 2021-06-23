@@ -1,0 +1,101 @@
+*{  margin-left: 0%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+/*header*/
+/*encabezado 1*/
+
+.encabezado1 {position: absolute;
+            width: 1024px;
+            height: 38px;
+            left: 0px;
+            top: 0px;
+            background-color: #1CD1B0;
+            font-size: 15px;
+            display: flex;
+            align-items: center;
+        }
+
+/*encabezado2*/
+
+.encabezado2 {position: absolute;
+            width: 1024px;
+            height: 101px;
+            left: 0px;
+            top: 38px;
+            margin: 0%;
+            background-color: #00669F;
+            box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+            font-size: 40px;
+            display: flex;
+            align-items: center;
+            ;}
+
+/*fin header*/
+
+/*main https://www.figma.com/file/NzdP5AErhP4nblWjy9NIX5/CLASE-10?node-id=0%3A1*/
+
+main{position: relative;
+    height: 833px;
+    width: 1024px;
+    top: 139px;}
+
+section{ padding: 151px 32px 150px;
+        }
+
+h2 {text-align: center;
+    padding-bottom: 10px;}
+
+article {width: 300px;
+    height: 336px;
+    left: 362px;
+    top: 485px;
+    border: solid 3px #F3F3F3;
+    display: table-cell;
+    }
+
+.box-1 {margin: 483px 692px 205px 60px;
+    }
+#perfilBatman{ border-radius: 50%;
+                position: relative;
+                left: 90px;
+                bottom:53px;}
+
+.box-2 {margin: 485px 362px 203px;}
+
+#perfilQuinn{ border-radius: 50%;
+    position: relative;
+    left: 90px;
+    bottom:53px;}
+
+.box-3 {margin: 486px 32px 202px 692px;}
+
+#fondoJoker{ border-top-left-radius: 5%;
+    border-top-right-radius: 5%}
+
+#perfilJoker{ border-radius: 50%;
+    position: relative;
+    left: 90px;
+    bottom:53px;}
+
+.informativo {display: flex;
+                align-items: center;
+                background-color: #00669F;
+                width: 128.78px;
+                height: 48.52px;
+                left: 777px;
+                top: 755px;}
+
+/*footer*/
+footer{position: absolute;
+    width: 1024px;
+    height: 51px;
+    left: 0px;
+    top: 972px;
+    background: #00669F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #00669F;
+    display: flex;
+    align-items: center;
+}
